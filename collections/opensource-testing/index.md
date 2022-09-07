@@ -36,6 +36,7 @@ items:
  - cburgmer/csscritic
  - wearefriday/spectre
  - shoov/shoov
+ - keploy/keploy
  - kdzwinel/Look-alike
  - thingsinjars/Hardy
  - python-needle/needle
